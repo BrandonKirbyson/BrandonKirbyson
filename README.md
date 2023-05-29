@@ -1,6 +1,12 @@
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkirbyson&theme=transparent&layout=donut&hide=shell)
+## Most Used Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandonkirbyson&theme=transparent&layout=donut&hide_border=true&hide=shell&hide_title=true" />
+
+## Stats
+<img src="https://github-readme-stats.vercel.app/api?username=brandonkirbyson&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true&hide_title=true" />
 
 ## Skills
 <img src="https://skillicons.dev/icons?i=ts,nodejs,js,css,html,java,rust,python,arduino,webpack,firebase,threejs,vercel" />
 <img src="https://skillicons.dev/icons?i=vscode,git,github,androidstudio,neovim,vim,idea" />
+
+
 
