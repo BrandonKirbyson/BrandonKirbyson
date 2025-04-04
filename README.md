@@ -7,7 +7,7 @@
 ## Things I Know
 
 ### Web
-<img src="https://skillicons.dev/icons?i=ts,nodejs,js,css,scss,html,pnpm,webpack,firebase,supabase,threejs,webstorm,vscode" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,js,css,scss,html,svelte,pnpm,webpack,firebase,supabase,threejs,webstorm,vscode" />
 
 ### Robotics
 <img src="https://skillicons.dev/icons?i=java,opencv,idea,androidstudio" />
